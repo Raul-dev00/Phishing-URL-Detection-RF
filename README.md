@@ -45,8 +45,8 @@ Elde ettiğimiz sonuçların literatürdeki bu referans noktalarına oldukça ya
 
 ## Referanslar
 
-*Rehman, A. U., Imtiaz, I., Javaid, S., & Muslih, M. (2025). Real-Time Phishing URL Detection Using Machine Learning. Engineering Proceedings, 107(1), 108. https://doi.org/10.3390/engproc2025107108
-*Sahingoz, O. K., Buber, E., Demir, O., & Diri, B. (2019). Machine learning based phishing detection from URLs. *Expert Systems with Applications*, *117*, 345-357. https://doi.org/10.1016/j.eswa.2018.09.029
+* Rehman, A. U., Imtiaz, I., Javaid, S., & Muslih, M. (2025). Real-Time Phishing URL Detection Using Machine Learning. Engineering Proceedings, 107(1), 108. https://doi.org/10.3390/engproc2025107108
+* Sahingoz, O. K., Buber, E., Demir, O., & Diri, B. (2019). Machine learning based phishing detection from URLs. *Expert Systems with Applications*, *117*, 345-357. https://doi.org/10.1016/j.eswa.2018.09.029
 
 ---
 

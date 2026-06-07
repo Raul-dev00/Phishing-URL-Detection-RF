@@ -6,7 +6,6 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, f1_score, confusion_matrix
 
 # 1. Veriyi Yükleme
-# Dosya adının IDE'nde 'Dataset.csv' (büyük D ile) olduğunu görüyorum.
 df = pd.read_csv("Dataset.csv")
 
 # 2. Veri Ön İşleme
@@ -45,7 +44,7 @@ print(f"Specificity (Özgüllük): {specificity:.4f}")
 print(f"F-measure (F1-Skoru): {f_measure:.4f}")
 print("-" * 34)
 
-# 5. Görselleştirmeler (Rapor İçin)
+# 5. Görselleştirmeler 
 # confusion
 plt.figure(figsize=(8, 6))
 sns.heatmap(cm, annot=True, fmt="d", cmap="Blues",

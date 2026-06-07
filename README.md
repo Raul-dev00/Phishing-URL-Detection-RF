@@ -6,7 +6,7 @@ Veri seti üzerinde çeşitli uzunluk ve oran metrikleri (özellik mühendisliğ
 
 ---
 
-## 📊 Model Performansı ve Metrikler
+## Model Performansı ve Metrikler
 
 Eğitilen Random Forest modeli, oltalama sitelerini tespit etmede oldukça yüksek ve kararlı bir performans sergilemiştir. Modelin temel değerlendirme metrikleri aşağıdadır:
 
@@ -32,7 +32,7 @@ Random Forest algoritmasının sınıflandırma kararı verirken en çok hangi U
 
 ---
 
-## 🔬 Sonuçlar ve Literatür Karşılaştırması
+## Sonuçlar ve Literatür Karşılaştırması
 
 Bu projede geliştirilen Random Forest modelinin sınıflandırma performansı, literatürdeki saygın akademik çalışmalarla karşılaştırmalı olarak analiz edilmiştir. Kendi eğittiğimiz modelde ulaştığımız **%97.93**'lük doğruluk (Accuracy) ve **0.9896**'lık AUC skoru, hem ScienceDirect (Elsevier) veri tabanında hem de MDPI'da yayımlanan güncel çalışmaların sonuçlarıyla güçlü bir örtüşme göstermektedir.
 
@@ -42,4 +42,12 @@ Bu projede geliştirilen Random Forest modelinin sınıflandırma performansı, 
 Elde ettiğimiz sonuçların literatürdeki bu referans noktalarına oldukça yakın olması; kullandığımız veri ön işleme adımlarının başarısını, modelin yüksek karar kararlılığını ve overfitting (aşırı öğrenme) sorununa karşı dirençli bir mimari kurulduğunu kanıtlamaktadır.
 
 ---
+
+## Referanslar
+
+*Rehman, A. U., Imtiaz, I., Javaid, S., & Muslih, M. (2025). Real-Time Phishing URL Detection Using Machine Learning. Engineering Proceedings, 107(1), 108. https://doi.org/10.3390/engproc2025107108
+*Sahingoz, O. K., Buber, E., Demir, O., & Diri, B. (2019). Machine learning based phishing detection from URLs. *Expert Systems with Applications*, *117*, 345-357. https://doi.org/10.1016/j.eswa.2018.09.029
+
+---
+
 **Geliştirici:** Raul Namazzade
